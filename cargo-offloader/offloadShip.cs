@@ -1,5 +1,14 @@
 // User Variables
-string[] nameOfShipCargoContainers = new string[3] { "TorzMinerStorage 1", "TorzMinerStorage 2", "TorzMinerStorage 3" };
+string[] nameOfShipCargoContainers = new string[8] { 
+    "TorzMinerStorage 1", 
+    "TorzMinerStorage 2", 
+    "TorzMinerStorage 3", 
+    "TorzMinerCockpit", 
+    "TorzMinerConnector",
+    "TorzMinerDrill 1",
+    "TorzMinerDrill 2",
+    "TorzMinerDrill 3"
+};
 string statusDisplayName = "LCD Ore Offloader";
 string nameOfOreDump = "Mars Alpha Largo Cargo 1";
 
